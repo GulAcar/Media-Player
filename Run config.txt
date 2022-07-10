@@ -1,0 +1,5 @@
+--module-path "C:\Users\skaanb\Documents\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml
+--add-modules javafx.controls,javafx.media
+--add-modules javafx.controls,javafx.graphics
+--add-exports javafx.graphics/com.sun.javafx.sg.prism=ALL-UNNAMED
+--module-path "C:\Users\skaanb\Documents\javafx-sdk-11.0.2\lib" --add-modules=javafx.swing,javafx.graphics,javafx.fxml,javafx.media,javafx.web --add-reads javafx.graphics=ALL-UNNAMED --add-opens javafx.controls/com.sun.javafx.charts=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.iio=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.iio.common=ALL-UNNAMED --add-opens javafx.graphics/com.sun.javafx.css=ALL-UNNAMED --add-opens javafx.base/com.sun.javafx.runtime=ALL-UNNAMED
